@@ -32,12 +32,12 @@ final dummyProducts = [
     imageUrl:
         'https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Cast-Iron-Pan.jpg/1024px-Cast-Iron-Pan.jpg',
   ),
-  Product(
-    id: 'p5',
-    name: 'Ball',
-    description:
-        'Playing football just got a lot more exciting with the Topper 2020 Blue Field Ball Slick 5159!',
-    price: 74.99,
-    imageUrl: 'https://m.media-amazon.com/images/I/71F9clrdAuL._AC_UL320_.jpg',
-  ),
+  // Product(
+  //   id: 'p5',
+  //   name: 'Ball',
+  //   description:
+  //       'Playing football just got a lot more exciting with the Topper 2020 Blue Field Ball Slick 5159!',
+  //   price: 74.99,
+  //   imageUrl: 'https://m.media-amazon.com/images/I/71F9clrdAuL._AC_UL320_.jpg',
+  // ),
 ];
